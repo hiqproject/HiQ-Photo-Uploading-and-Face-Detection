@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FaceDetectionGoogleVisionAPI</string>
+    <string name="hello_world">Welcome to the Face Detection App!</string>
+    <string name="second_page">Photo Submitted!</string>
+    <string name="submit">Submit</string>
+    <string name="capture_image">Take Photo</string>
+    <string name="choose_image">Choose Photo</string>
+</resources>
